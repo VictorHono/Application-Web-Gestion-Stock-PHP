@@ -6,7 +6,7 @@ Application web de Gestion de Stock en PHP oriante objet avec le modele MVC.
 - **Serveur local utiliser** : Xampp
 - **Description du projet** : 
 Ce projet a consister à concevoir une **application de gestion de stock** performante en utilisant **PHP orienté objet** avec le modèle **MVC (Modèle-Vue-Contrôleur)**. L’objectif est d’offrir une solution centralisée pour la gestion des produits, des stocks, des commandes, des fournisseurs, des clients, et des factures, tout en assurant une maintenance simplifiée et une architecture évolutive.
-  # Cette application permettra :
+  # Cette application permet :
       - La gestion des produits (ajout, modification, suppression).
       - La gestion des clients.
       - La gestion des factures.
@@ -16,7 +16,7 @@ Ce projet a consister à concevoir une **application de gestion de stock** perfo
       - La génération d’analyses.
       - Une interface utilisateur conviviale et intuitive.
   # Ressources de développement utilisées :
-    Pour développer cette application en **PHP orienté objet** avec **MVC**, voici les ressources, outils, et technologies nécessaires :
+    Pour développer cette application en **PHP orienté objet** avec **MVC**, voici les ressources, outils, et technologies mis en place :
   # 1. Langages et technologies principales :
       - **PHP (>= 8.0)** :
         - Utilisation des classes, interfaces, namespaces, et traits pour construire une application orientée objet.
